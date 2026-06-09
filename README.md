@@ -1,35 +1,63 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | AI & ML Student</h3>
+<div align="center">
+
+# Hi 👋, I'm Adarsh Kumar
+
+### Aspiring Software Engineer | Full Stack Developer | AI & ML Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;AI+%26+ML+Student" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. CSE (AI & ML) at Chandigarh University
+- 💻 Passionate about Software Engineering and Full Stack Development
+- 📚 Solving DSA problems on LeetCode
+- 🌱 Currently learning System Design and Backend Development
+- ⚡ Building projects with React, Node.js, and PostgreSQL
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_LEETCODE">LeetCode</a>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,react,nodejs,express,postgres,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 📊 GitHub Stats
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning System Design & Backend Development
-- 📚 Solving DSA problems regularly
-- ⚡ Interested in Software Engineering and AI/ML
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=23bai70616&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23bai70616&layout=compact&theme=tokyonight"/>
+</p>
 
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=23bai70616&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=23bai70616&show_icons=true&theme=tokyonight)
+### 🔹 AlgoVista
+Interactive DSA Visualization Platform
 
-![Streak](https://streak-stats.demolab.com?user=23bai70616&theme=tokyonight)
+### 🔹 EduCloud
+Scalable E-learning Platform
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23bai70616&layout=compact&theme=tokyonight)
+### 🔹 Amazon Clone
+Full Stack E-Commerce Application
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
+
+</div>
