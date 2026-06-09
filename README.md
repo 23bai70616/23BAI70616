@@ -60,8 +60,14 @@ Full Stack E-Commerce Application
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/adarsh-kr-kumar/)](YOUR_LINKEDIN)
+<p align="center">
+<a href="https://www.linkedin.com/in/adarsh-kr-kumar/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LeetCode](https://leetcode.com/u/adarsh_jaiswal_/)](YOUR_LEETCODE)
+<a href="https://leetcode.com/u/adarsh_jaiswal_/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
 
 </div>
