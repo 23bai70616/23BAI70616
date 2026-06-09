@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700"/>
+
 # Hi 👋, I'm Adarsh Kumar
 
-### Aspiring Software Engineer | Full Stack Developer | AI & ML Student
+### Aspiring Software Engineer | AI & ML Student | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer;DSA+Enthusiast;AI+%26+ML+Student" />
+![](https://komarev.com/ghpvc/?username=23bai70616&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 </div>
 
