@@ -17,11 +17,10 @@
 
 ## 🚀 About Me
 
-- 🎓 B.E. CSE (AI & ML) at Chandigarh University
-- 💻 Passionate about Software Engineering and Full Stack Development
-- 📚 Solving DSA problems on LeetCode
-- 🌱 Currently learning System Design and Backend Development
-- ⚡ Building projects with React, Node.js, and PostgreSQL
+- 🎓 Pursuing B.E. in Computer Science (AI & ML) at Chandigarh University
+- 💻 Passionate about Software Engineering, Full-Stack Development, and Problem Solving
+- 📚 Regularly solving Data Structures & Algorithms problems on LeetCode
+- ⚡ Interested in Software Development, System Design, AI/ML, and Modern Web Technologies
 
 ---
 
@@ -61,8 +60,8 @@ Full Stack E-Commerce Application
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/adarsh-kr-kumar/)](YOUR_LINKEDIN)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
+[![LeetCode](https://leetcode.com/u/adarsh_jaiswal_/)](YOUR_LEETCODE)
 
 </div>
